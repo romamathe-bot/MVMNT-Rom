@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Equilibrio - Login</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+
+<body class="center">
+
+  <div class="card">
+
+    <div class="logo">👤</div>
+
+    <h2>¿Quién eres?</h2>
+
+    <p class="subtitle">Selecciona tu perfil</p>
+
+    <button class="btn" onclick="login('Rom')">Rom</button>
+
+    <div style="height:10px"></div>
+
+    <button class="btn" onclick="login('Carol')">Carol</button>
+
+  </div>
+
+<script>
+  function login(user){
+    localStorage.setItem("equilibrio_user", user);
+    window.location.href = "app.html";
+  }
+</script>
+
+</body>
+</html>
