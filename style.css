@@ -10,7 +10,12 @@ body{
     color:#1d1d1f;
 }
 
-.app{
+app{
+    width:100%;
+    max-width:430px;
+    margin:0 auto;
+    padding:20px;
+    padding-bottom:40px;
     max-width:430px;
     margin:auto;
     padding:20px;
