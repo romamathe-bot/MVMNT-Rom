@@ -1,0 +1,15 @@
+{
+  "name": "Equilibrio",
+  "short_name": "Equilibrio",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#007AFF",
+  "icons": [
+    {
+      "src": "assets/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
