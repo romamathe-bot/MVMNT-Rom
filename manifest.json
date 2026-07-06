@@ -1,17 +1,36 @@
 {
-  "name": "Equilibrio",
-  "short_name": "Equilibrio",
-  "description": "Aplicación familiar para equilibrar tareas entre Rom y Carol.",
-  "start_url": "./",
+  "name": "MVMNT ROM",
+  "short_name": "MVMNT",
+  "description": "Application personnelle de suivi coaching, performances, entraînements et records.",
+  "lang": "fr",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#F5F7FB",
-  "theme_color": "#0A84FF",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": [
+    "sports",
+    "health",
+    "fitness",
+    "productivity"
+  ],
   "icons": [
     {
-      "src": "assets/logo.png",
+      "src": "icon-180.png",
       "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     }
