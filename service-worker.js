@@ -1,4 +1,4 @@
-const CACHE_NAME = "mvmnt-rom-v1.0.0";
+const CACHE_NAME = "Coaching Rom Mathé-rom-v1.0.0";
 
 const FILES = [
   "./",

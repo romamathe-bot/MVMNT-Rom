@@ -1,6 +1,6 @@
 {
-  "name": "MVMNT ROM",
-  "short_name": "MVMNT",
+  "name": "Coaching Rom Mathé ROM",
+  "short_name": "Coaching Rom Mathé",
   "description": "Application personnelle de suivi coaching, performances, entraînements et records.",
   "lang": "fr",
   "start_url": "./index.html",
@@ -17,7 +17,7 @@
   ],
   "icons": [
   {
-    "src": "assets/logo-mvmnt.png"
+    "src": "assets/logo-Coaching Rom Mathé.png"
     "sizes": "512x512",
     "type": "image/png",
     "purpose": "any maskable"
