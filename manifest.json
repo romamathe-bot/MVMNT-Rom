@@ -1,6 +1,6 @@
 {
   "name": "Coaching Rom",
-  "short_name": "Coaching Rom Mathé",
+  "short_name": "Coaching Rom",
   "description": "Application personnelle de suivi coaching, performances, entraînements et records.",
   "lang": "fr",
   "start_url": "./index.html",
@@ -17,7 +17,7 @@
   ],
   "icons": [
   {
-    "src": "assets/logo-Coaching Rom Mathé.png"
+    "src": "assets/logo-Coaching Rom.png"
     "sizes": "512x512",
     "type": "image/png",
     "purpose": "any maskable"
