@@ -1,12 +1,13 @@
-const CACHE_NAME = "Coaching Rom-rom-v1.0.0";
+const CACHE_NAME = "coaching-rom-v1.0.1";
 
 const FILES = [
   "./",
   "./index.html",
   "./manifest.json",
-  "./icon-180.png",
-  "./icon-192.png",
-  "./icon-512.png"
+  "./style.css",
+  "./app.js",
+  "./firebase.js",
+  "./assets/logo-coaching-rom.png"
 ];
 
 self.addEventListener("install", event => {
