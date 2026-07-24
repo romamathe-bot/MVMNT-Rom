@@ -1,26 +1,16 @@
 {
-  "name": "Coaching Rom",
+  "name": "Coaching Rom Mathé",
   "short_name": "Coaching Rom",
-  "description": "Application personnelle de suivi coaching, performances, entraînements et records.",
-  "lang": "fr",
-  "start_url": "./index.html",
-  "scope": "./",
+  "start_url": "./",
   "display": "standalone",
-  "orientation": "portrait",
-  "background_color": "#000000",
-  "theme_color": "#000000",
-  "categories": [
-    "sports",
-    "health",
-    "fitness",
-    "productivity"
-  ],
+  "background_color": "#ffffff",
+  "theme_color": "#c8952e",
   "icons": [
-  {
-    "src": "assets/logo-coaching-rom.png"
-    "sizes": "512x512",
-    "type": "image/png",
-    "purpose": "any maskable"
-  }
-]
+    {
+      "src": "assets/logo-coaching-rom.png",
+      "sizes": "1536x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
 }
