@@ -2,12 +2,13 @@
   "name": "Coaching Rom Mathé",
   "short_name": "Coaching Rom",
   "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#c8952e",
   "icons": [
     {
-      "src": "assets/logo-coaching-rom.png",
+      "src": "./assets/logo-coaching-rom.png",
       "sizes": "1536x1024",
       "type": "image/png",
       "purpose": "any"
